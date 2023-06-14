@@ -21,10 +21,8 @@
 
 
 
-## Skills and Tools
-![download](https://github.com/devshruti/devshruti/assets/115461429/70a934a0-e758-438e-8f74-a4454e827a30)![download](https://github.com/devshruti/devshruti/assets/115461429/c3bd24d5-33c7-4f31-a6aa-a72c71707f34)![images](https://github.com/devshruti/devshruti/assets/115461429/a649a9fe-95e5-4585-9086-b033c33b0e1c)![download](https://github.com/devshruti/devshruti/assets/115461429/b713f07e-864c-4fce-82d2-2a64ba42c55b)![express-logo](https://github.com/devshruti/devshruti/assets/115461429/1d0e7641-d2af-45bd-b6a5-1e1da04d4c65)
-
-
+## Skills and Tools 🧰
+![download](https://github.com/devshruti/devshruti/assets/115461429/70a934a0-e758-438e-8f74-a4454e827a30)![download](https://github.com/devshruti/devshruti/assets/115461429/c3bd24d5-33c7-4f31-a6aa-a72c71707f34)![png-clipart-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-thumbnail](https://github.com/devshruti/devshruti/assets/115461429/3b7f705e-6ebc-4b6f-8853-6faeb4e9bfa6)
 
 
 
