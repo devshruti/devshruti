@@ -1,7 +1,7 @@
 ![Uploading 68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966.gif…]()
 <h1 align="center">Hi 👋, I'm Devshruti Sen</h1>
 <h2 align="center">Aspiring Full Stack Web Developer</h2>
-<img align="center" alt="image" width="400" src="https://github.com/devshruti/devshruti/assets/115461429/62f26e53-82c8-4d8f-83cf-003c14285196">
+<img align="right" alt="image" width="500" src="https://github.com/devshruti/devshruti/assets/115461429/62f26e53-82c8-4d8f-83cf-003c14285196">
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://devshruti.github.io/](https://devshruti.github.io/)
