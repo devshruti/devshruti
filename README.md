@@ -1,7 +1,8 @@
-![Uploading 68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966.gif…]()
+[![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)]
 <h1 align="center">Hi 👋, I'm Devshruti Sen</h1>
 <h2 align="center">Aspiring Full Stack Web Developer</h2>
 <img align="right" alt="image" width="500" src="https://github.com/devshruti/devshruti/assets/115461429/62f26e53-82c8-4d8f-83cf-003c14285196">
+
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://devshruti.github.io/](https://devshruti.github.io/)
@@ -12,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OvEn7SUFGb1epXVRuzKJpjfILJnfP_dA/view?usp=sharing](https://drive.google.com/file/d/1OvEn7SUFGb1epXVRuzKJpjfILJnfP_dA/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devshruti-sen-2ba3a5202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devshruti-sen-2ba3a5202/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shruti_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shruti_sen" height="30" width="40" /></a>
